@@ -1,0 +1,6 @@
+echo on
+
+cd D:\studies\childhood\QUESTIONNAIRES\ps_files
+
+"C:\Program Files\gs\gs9.15\bin\gswin64c" -sDEVICE=pdfwrite -o EUITAGEN_20150518.pdf EUITAGEN_20150518.ps
+"C:\Program Files\gs\gs9.15\bin\gswin64c" -sDEVICE=pdfwrite -o EUITAMAN_20150518.pdf EUITAMAN_20150518.ps

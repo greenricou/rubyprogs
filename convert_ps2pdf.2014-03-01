@@ -1,0 +1,23 @@
+echo on
+
+cd C:\studies\childhood\QUESTIONNAIRES\ps_files
+
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o AFALGTLE_20140227.pdf AFALGTLE_20140227.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ALBRAJPE_20140227.pdf ALBRAJPE_20140227.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ALECUQUI_20140227.pdf ALECUQUI_20140227.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ALECUQUI_20140227_1.pdf ALECUQUI_20140227_1.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ALMEX20_20140227.pdf ALMEX20_20140227.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ASJAPNII_20140227.pdf ASJAPNII_20140227.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ASPHIMAN_20140227.pdf ASPHIMAN_20140227.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ASTHAKHO_20140227.pdf ASTHAKHO_20140227.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ASTHAKHO_20140227_1.pdf ASTHAKHO_20140227_1.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ASVIEHOC_20140227.pdf ASVIEHOC_20140227.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUITACAT_20140227.pdf EUITACAT_20140227.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUITACOM_20140227.pdf EUITACOM_20140227.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUITALAT_20140227.pdf EUITALAT_20140227.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUITATYS_20140227.pdf EUITATYS_20140227.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUPOLLSI_20140227.pdf EUPOLLSI_20140227.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUPORAZO_20140227.pdf EUPORAZO_20140227.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUSERCSE_20140227.pdf EUSERCSE_20140227.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUSPACUE_20140227.pdf EUSPACUE_20140227.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUSWIVAL_20140227.pdf EUSWIVAL_20140227.ps

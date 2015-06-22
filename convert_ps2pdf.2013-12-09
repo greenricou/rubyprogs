@@ -1,0 +1,7 @@
+echo on
+
+cd C:\studies\childhood\QUESTIONNAIRES\ps_files
+
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ANUSAKEN_20131204.pdf ANUSAKEN_20131204.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUITACAT_20131205_1.pdf EUITACAT_20131205_1.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUITACAT_20131205_2.pdf EUITACAT_20131205_2.ps

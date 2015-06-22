@@ -1,0 +1,19 @@
+echo on
+
+cd C:\studies\childhood\QUESTIONNAIRES\ps_files
+
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o AFALGANN_20140303.pdf AFALGANN_20140303.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o AFEGYGHA_20140303.pdf AFEGYGHA_20140303.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o AFMAIBLA_20140303.pdf AFMAIBLA_20140303.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ASCHIQID_20140303.pdf ASCHIQID_20140303.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ASCHIQID_20140303_1.pdf ASCHIQID_20140303_1.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ASINEJAK_20140303.pdf ASINEJAK_20140303.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ASTHALAM_20140303.pdf ASTHALAM_20140303.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUITANUO_20140303.pdf EUITANUO_20140303.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUITAPAR_20140303.pdf EUITAPAR_20140303.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUPORCOI_20140303.pdf EUPORCOI_20140303.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUROMCLU_20140303.pdf EUROMCLU_20140303.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EURUS11_20140303.pdf EURUS11_20140303.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUSLK10_20140303.pdf EUSLK10_20140303.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUSPABAL_20140303.pdf EUSPABAL_20140303.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUSWITIC_20140303.pdf EUSWITIC_20140303.ps

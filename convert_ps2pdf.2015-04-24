@@ -1,0 +1,5 @@
+echo on
+
+cd D:\studies\childhood\QUESTIONNAIRES\ps_files
+
+"C:\Program Files\gs\gs9.15\bin\gswin64c" -sDEVICE=pdfwrite -o ANUSAMIC_20150424.pdf ANUSAMIC_20150424.ps

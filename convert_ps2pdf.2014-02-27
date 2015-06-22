@@ -1,0 +1,26 @@
+echo on
+
+cd C:\studies\childhood\QUESTIONNAIRES\ps_files
+
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ALARGNEU_20140225.pdf ALARGNEU_20140225.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ALBRAARA_20140225.pdf ALBRAARA_20140225.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ALCOLPAS_20140225.pdf ALCOLPAS_20140225.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ALCOS10_20140225.pdf ALCOS10_20140225.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ALECUCUE_20140225.pdf ALECUCUE_20140225.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ALFRFGUY_20140225.pdf ALFRFGUY_20140225.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ALJAMKIN_20140225.pdf ALJAMKIN_20140225.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ANCANMAN_20140225.pdf ANCANMAN_20140225.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ANCANNBR_20140225.pdf ANCANNBR_20140225.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ANUSA11_20140225.pdf ANUSA11_20140225.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ANUSA12_20140225.pdf ANUSA12_20140225.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ANUSAALS_20140225.pdf ANUSAALS_20140225.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ANUSANEH_20140225.pdf ANUSANEH_20140225.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ASISR10_20140225.pdf ASISR10_20140225.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUDEN10_20140225.pdf EUDEN10_20140225.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUFRADOU_20140225.pdf EUFRADOU_20140225.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUGERBAV_20140225.pdf EUGERBAV_20140225.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUGERBAY_20140225_1.pdf EUGERBAY_20140225_1.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUGERBAY_20140225_2.pdf EUGERBAY_20140225_2.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUIRL10_20140225.pdf EUIRL10_20140225.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUNET10_20140225.pdf EUNET10_20140225.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUPORAZO_20140225.pdf EUPORAZO_20140225.ps

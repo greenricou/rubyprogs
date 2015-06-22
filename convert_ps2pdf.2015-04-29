@@ -1,0 +1,5 @@
+echo on
+
+cd D:\studies\childhood\QUESTIONNAIRES\ps_files
+
+"C:\Program Files\gs\gs9.15\bin\gswin64c" -sDEVICE=pdfwrite -o AFCAMYAO_20150428.pdf AFCAMYAO_20150428.ps

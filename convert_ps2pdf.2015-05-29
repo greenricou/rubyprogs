@@ -1,0 +1,6 @@
+echo on
+
+cd D:\studies\childhood\QUESTIONNAIRES\ps_files
+
+"C:\Program Files\gs\gs9.15\bin\gswin64c" -sDEVICE=pdfwrite -o ANUSAMID_20150528.pdf ANUSAMID_20150528.ps
+"C:\Program Files\gs\gs9.15\bin\gswin64c" -sDEVICE=pdfwrite -o EUGERSAA_20150528.pdf EUGERSAA_20150528.ps

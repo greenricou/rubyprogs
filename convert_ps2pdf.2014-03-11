@@ -1,0 +1,10 @@
+echo on
+
+cd C:\studies\childhood\QUESTIONNAIRES\ps_files
+
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o AFALGANN_20140310.pdf AFALGANN_20140310.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o AFALGANN_20140310_1.pdf AFALGANN_20140310_1.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ANUSALAO_20140310.pdf ANUSALAO_20140310.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUFRALOI_20140310.pdf EUFRALOI_20140310.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUITASIR_20140310.pdf EUITASIR_20140310.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUSPATAR_20140310.pdf EUSPATAR_20140310.ps

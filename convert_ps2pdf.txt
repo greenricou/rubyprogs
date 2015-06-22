@@ -1,0 +1,18 @@
+echo on
+
+cd C:\studies\childhood\QUESTIONNAIRES\ps_files
+
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o AFALGTLE_20120602.pdf AFALGTLE_20120602.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ALBRACUI_20110905.pdf ALBRACUI_20110905.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ALECUCUE_20130627.pdf ALECUCUE_20130627.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ASCHIDAL_20120720.pdf ASCHIDAL_20120720.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ASKOSJEJ_20120720.pdf ASKOSJEJ_20120720.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUITALEC_20130624.pdf EUITALEC_20130624.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUITATRE_20130621.pdf EUITATRE_20130621.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUSPABAS_20130704.pdf EUSPABAS_20130704.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUUKMEOX_20130708.pdf EUUKMEOX_20130708.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUUKMNIR_20130702.pdf EUUKMNIR_20130702.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUVAT10_20130620.pdf EUVAT10_20130620.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUVAT10_20130625.pdf EUVAT10_20130625.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o OCVANMAS_20130620.pdf OCVANMAS_20130620.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o OCVANMAS_20130621.pdf OCVANMAS_20130621.ps

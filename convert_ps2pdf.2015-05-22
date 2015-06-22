@@ -1,0 +1,14 @@
+echo on
+
+cd D:\studies\childhood\QUESTIONNAIRES\ps_files
+
+"C:\Program Files\gs\gs9.15\bin\gswin64c" -sDEVICE=pdfwrite -o ANUSAUTA_20150521.pdf ANUSAUTA_20150521.ps
+"C:\Program Files\gs\gs9.15\bin\gswin64c" -sDEVICE=pdfwrite -o ASINDAUR_20150521.pdf ASINDAUR_20150521.ps
+"C:\Program Files\gs\gs9.15\bin\gswin64c" -sDEVICE=pdfwrite -o ASINDMUM_20150521.pdf ASINDMUM_20150521.ps
+"C:\Program Files\gs\gs9.15\bin\gswin64c" -sDEVICE=pdfwrite -o ASINDNAG_20150521.pdf ASINDNAG_20150521.ps
+"C:\Program Files\gs\gs9.15\bin\gswin64c" -sDEVICE=pdfwrite -o ASINDPOO_20150521.pdf ASINDPOO_20150521.ps
+"C:\Program Files\gs\gs9.15\bin\gswin64c" -sDEVICE=pdfwrite -o ASJOR10_20150521.pdf ASJOR10_20150521.ps
+"C:\Program Files\gs\gs9.15\bin\gswin64c" -sDEVICE=pdfwrite -o ASKOSGWA_20150521.pdf ASKOSGWA_20150521.ps
+"C:\Program Files\gs\gs9.15\bin\gswin64c" -sDEVICE=pdfwrite -o ASKOSJEJ_20150521.pdf ASKOSJEJ_20150521.ps
+"C:\Program Files\gs\gs9.15\bin\gswin64c" -sDEVICE=pdfwrite -o EUGERSCH_20150521.pdf EUGERSCH_20150521.ps
+"C:\Program Files\gs\gs9.15\bin\gswin64c" -sDEVICE=pdfwrite -o EUSPA20_20150521.pdf EUSPA20_20150521.ps

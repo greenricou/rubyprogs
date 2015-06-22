@@ -1,0 +1,5 @@
+echo on
+
+cd C:\studies\childhood\QUESTIONNAIRES\ps_files
+
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUUKA10_20130827.pdf EUUKA10_20130827.ps

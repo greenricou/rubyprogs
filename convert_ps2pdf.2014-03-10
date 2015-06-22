@@ -1,0 +1,7 @@
+echo on
+
+cd C:\studies\childhood\QUESTIONNAIRES\ps_files
+
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ALCUB10_20140307.pdf ALCUB10_20140307.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ASTUREDI_20140306.pdf ASTUREDI_20140306.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUSWIZUR_20140307.pdf EUSWIZUR_20140307.ps

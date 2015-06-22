@@ -1,0 +1,17 @@
+echo on
+
+cd C:\studies\childhood\QUESTIONNAIRES\ps_files
+
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o AFMORRAB_20140306_3.pdf AFMORRAB_20140306_3.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o AFMORRAB_20140306_4.pdf AFMORRAB_20140306_4.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o AFMORRAB_20140306_5.pdf AFMORRAB_20140306_5.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o AFMORRAB_20140306_7.pdf AFMORRAB_20140306_7.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ALFRMMAR_20140307.pdf ALFRMMAR_20140307.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ALMEX20_20140306.pdf ALMEX20_20140306.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ANUSAKEN_20140306.pdf ANUSAKEN_20140306.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ASCHIBEI_20140306.pdf ASCHIBEI_20140306.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ASJAPOSA_20140307.pdf ASJAPOSA_20140307.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ASTUREDI_20140306.pdf ASTUREDI_20140306.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUGERSAL_20140306.pdf EUGERSAL_20140306.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUSPACUE_20140306.pdf EUSPACUE_20140306.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUSPACUE_20140306_1.pdf EUSPACUE_20140306_1.ps

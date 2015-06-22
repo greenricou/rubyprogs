@@ -1,0 +1,19 @@
+echo on
+
+cd C:\studies\childhood\QUESTIONNAIRES\ps_files
+
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o AFSOU20_20140305.pdf AFSOU20_20140305.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o AFTUNNOR_20140305.pdf AFTUNNOR_20140305.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ALARG20_20140305.pdf ALARG20_20140305.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ANUSAKEN_20140305.pdf ANUSAKEN_20140305.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ANUSAKEN_20140305_1.pdf ANUSAKEN_20140305_1.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ASTURANT_20140305.pdf ASTURANT_20140305.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ASTURIZM_20140305.pdf ASTURIZM_20140305.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ASTURIZM_20140305_1.pdf ASTURIZM_20140305_1.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o ASVIEHOC_20140305.pdf ASVIEHOC_20140305.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUAUT10_20140305.pdf EUAUT10_20140305.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUCRO10_20140305.pdf EUCRO10_20140305.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUGRE21_20140305.pdf EUGRE21_20140305.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUITACOM_20140305.pdf EUITACOM_20140305.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUITAUMB_20140305.pdf EUITAUMB_20140305.ps
+"C:\Program Files\gs\gs8.64\bin\gswin32c" -sDEVICE=pdfwrite -o EUNETSTH_20140305.pdf EUNETSTH_20140305.ps

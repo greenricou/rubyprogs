@@ -1,0 +1,8 @@
+echo on
+
+cd D:\studies\childhood\QUESTIONNAIRES\ps_files
+
+"C:\Program Files\gs\gs9.15\bin\gswin64c" -sDEVICE=pdfwrite -o AFMAU10_20150515.pdf AFMAU10_20150515.ps
+"C:\Program Files\gs\gs9.15\bin\gswin64c" -sDEVICE=pdfwrite -o EUFRA21_20150516.pdf EUFRA21_20150516.ps
+"C:\Program Files\gs\gs9.15\bin\gswin64c" -sDEVICE=pdfwrite -o EUITALAT_20150515.pdf EUITALAT_20150515.ps
+"C:\Program Files\gs\gs9.15\bin\gswin64c" -sDEVICE=pdfwrite -o EUPOLLUB_20150515.pdf EUPOLLUB_20150515.ps
