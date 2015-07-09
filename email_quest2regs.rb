@@ -3,7 +3,7 @@ require 'win32ole'
 
 receipients = ["masuyere@iarc.fr","masuyer@iarc.fr"]
 
-emailtext   = "Dear Colleague,\n\nPlease find attach a pdf copy of the questionnaire that you completed the 18th June 2015.\n\nBest regards,\n\nEric Masuyer\n\n\nEric Masuyer\nData Manager\nSection of Cancer Surveillance (CSU)\n\nInternational Agency for Research on Cancer (IARC/WHO)\n150 cours Albert Thomas\n69372 Lyon Cedex 08\nFrance"
+emailtext   = "Dear Colleague,\n\nPlease find attach a pdf copy of the questionnaire that you completed the 8th July 2015.\n\nBest regards,\n\nEric Masuyer\n\n\nEric Masuyer\nData Manager\nSection of Cancer Surveillance (CSU)\n\nInternational Agency for Research on Cancer (IARC/WHO)\n150 cours Albert Thomas\n69372 Lyon Cedex 08\nFrance"
 
 files=Dir.entries(".")
 files.each do |file|
